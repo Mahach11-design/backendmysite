@@ -28,21 +28,5 @@
       "Render"
     ],
     "url": "None"
-  },
-  {
-    "id": 1777666371068,
-    "title": "Gggg",
-    "type": "Not",
-    "status": "in_progress",
-    "shortDescription": "F",
-    "description": "D",
-    "stack": [
-      "JS",
-      "JSON",
-      "Python",
-      "Render",
-      "GitHub"
-    ],
-    "url": "None"
   }
 ]
