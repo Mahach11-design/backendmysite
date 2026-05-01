@@ -4,7 +4,7 @@
     "title": "Личный сайт-портфолио",
     "type": "site",
     "status": "in_progress",
-    "shortDescription": "Личный сайт - контакты/портфолило",
+    "shortDescription": "в котором будет информация о статусах моих работ",
     "description": "Личный сайт-портфолио в стиле терминала: анимированный фон, карточки контактов, секция проектов и модальные окна с полным описанием. Frontend держаться на GitHub Pages, а список проектов загружать с backend на Render.",
     "stack": ["HTML", "CSS", "JavaScript", "GitHub Pages", "Render"],
     "url": "https://махач.рф"
