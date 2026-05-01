@@ -4,7 +4,7 @@
     "title": "Личный сайт-портфолио",
     "type": "site",
     "status": "in_progress",
-    "shortDescription": "",
+    "shortDescription": " ",
     "description": "Личный сайт-портфолио в стиле терминала: анимированный фон, карточки контактов, секция проектов, фильтры по типу проекта и модальные окна с полным описанием. Frontend можно держать на GitHub Pages, а список проектов загружать с backend на Render.",
     "stack": ["HTML", "CSS", "JavaScript", "GitHub Pages", "Render"],
     "url": ""
