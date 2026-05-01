@@ -6,7 +6,24 @@
     "status": "in_progress",
     "shortDescription": "в котором будет информация о статусах моих работ",
     "description": "Личный сайт-портфолио в стиле терминала: анимированный фон, карточки контактов, секция проектов и модальные окна с полным описанием. Frontend держаться на GitHub Pages, а список проектов загружать с backend на Render.",
-    "stack": ["HTML", "CSS", "JavaScript", "GitHub Pages", "Render"],
+    "stack": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "GitHub Pages",
+      "Render"
+    ],
     "url": "https://махач.рф"
+  },
+  {
+    "id": 1777663827859,
+    "title": "ffff",
+    "type": "site",
+    "status": "in_progress",
+    "shortDescription": "fff",
+    "description": "fffff",
+    "stack": [
+      "html"
+    ]
   }
 ]
