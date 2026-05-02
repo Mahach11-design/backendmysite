@@ -28,17 +28,5 @@
       "Render"
     ],
     "url": "None"
-  },
-  {
-    "id": 1777718567078,
-    "title": "Mahach",
-    "shortDescription": "Привет",
-    "description": "Привет",
-    "stack": [
-      "html"
-    ],
-    "url": "None",
-    "type": "site",
-    "status": "done"
   }
 ]
