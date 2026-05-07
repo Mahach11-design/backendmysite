@@ -28,17 +28,5 @@
       "Render"
     ],
     "url": "None"
-  },
-  {
-    "id": 1778154631220,
-    "title": "Крутой котик",
-    "shortDescription": "Описаний нету тут просто котик",
-    "description": "Полного описания тоже нету",
-    "stack": [
-      "Нету"
-    ],
-    "url": "Нету",
-    "type": "app",
-    "status": "not_started"
   }
 ]
