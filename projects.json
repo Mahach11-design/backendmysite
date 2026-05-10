@@ -28,5 +28,17 @@
       "Render"
     ],
     "url": "None"
+  },
+  {
+    "id": 1778415403560,
+    "title": "Проверка а",
+    "shortDescription": "Проверка",
+    "description": "Проверка",
+    "stack": [
+      "Проверка"
+    ],
+    "url": "https://махач.рф",
+    "type": "site",
+    "status": "in_progress"
   }
 ]
